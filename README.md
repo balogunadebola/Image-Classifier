@@ -1,2 +1,2 @@
 # Image-Classifier
-A model that classifies images from the Fashion MNIST dataset
+A neural network for image classification on the Fashion MNIST dataset using TensorFlow and Keras
